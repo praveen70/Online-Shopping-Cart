@@ -1,18 +1,18 @@
 # Angular-10 - ShoppingCart + MDBootstrap + Firebase (Realtime Database) + i18n
 
-[![HitCount](http://hits.dwyl.io/ikismail/Angular-ShoppingCart.svg)](http://hits.dwyl.io/ikismail/Angular-ShoppingCart)
-[![GitHub forks](https://img.shields.io/github/forks/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/network) [![GitHub stars](https://img.shields.io/github/stars/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE)
-[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://angular-shoppingcart.firebaseapp.com/)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ikismail/Angular-ShoppingCart.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fikismail%2FAngular-ShoppingCart)
+[![HitCount](http://hits.dwyl.io/praveen/Online-Shopping-Cart.svg)](http://hits.dwyl.io/praveen/Online-Shopping-Cart)
+[![GitHub forks](https://img.shields.io/github/forks/praveen/Online-Shopping-Cart.svg)](https://github.com/praveen/Online-Shopping-Cart/network) [![GitHub stars](https://img.shields.io/github/stars/praveen/Online-Shopping-Cart.svg)](https://github.com/praveen/Online-Shopping-Cart/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/praveen/Online-Shopping-Cart.svg)](https://github.com/praveen/Online-Shopping-Cart/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/praveen/Online-Shopping-Cart/blob/master/LICENSE)
+[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://Online-Shopping-Cart.firebaseapp.com/)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/praveen/Online-Shopping-Cart.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpraveen%2FOnline-Shopping-Cart)
 
-<!-- [![Github Dependencies](https://david-dm.org/ikismail/Angular-ShoppingCart.svg)](https://david-dm.org/ikismail/Angular-ShoppingCart.svg) -->
-<!-- [![Build Status](https://travis-ci.org/ikismail/Angular-ShoppingCart.svg?branch=master)](https://travis-ci.org/ikismail/Angular-ShoppingCart) -->
+<!-- [![Github Dependencies](https://david-dm.org/praveen/Online-Shopping-Cart.svg)](https://david-dm.org/praveen/Online-Shopping-Cart.svg) -->
+<!-- [![Build Status](https://travis-ci.org/praveen/Online-Shopping-Cart.svg?branch=master)](https://travis-ci.org/praveen/Online-Shopping-Cart) -->
 
 Developing a **ShoppingCart (Ecommerce) Application using Angular-10**.
 
-**Live Demo** : [Angular-shopping-cart](https://angular-shoppingcart.firebaseapp.com/)
+**Live Demo** : [Angular-shopping-cart](https://Online-Shopping-Cart.firebaseapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
@@ -116,15 +116,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Home Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/home.PNG "Home Page")
+![Alt text](https://github.com/praveen/Online-Shopping-Cart/blob/master/screenshots/home.PNG "Home Page")
 
 ### Products Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/products.PNG "Home Page")
+![Alt text](https://github.com/praveen/Online-Shopping-Cart/blob/master/screenshots/products.PNG "Home Page")
 
 ### Work Board Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/drag&drop.PNG "Home Page")
+![Alt text](https://github.com/praveen/Online-Shopping-Cart/blob/master/screenshots/drag&drop.PNG "Home Page")
 
 ## Development server
 
@@ -156,4 +156,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## License
 
-This project is licensed under the MIT License - see the [MIT license](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [MIT license](https://github.com/praveen/Online-Shopping-Cart/blob/master/LICENSE) file for details

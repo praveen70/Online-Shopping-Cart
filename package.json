@@ -1,5 +1,5 @@
 {
-  "name": "shopping-cart",
+  "name": "Online shopping-cart",
   "version": "2.1.4",
   "private": true,
   "scripts": {
@@ -22,13 +22,13 @@
     }
   },
   "author": {
-    "name": "Mohammed Ismail",
-    "email": "ikismail7@gmail.com"
+    "name": "Praveen",
+    "email": "praveen.mr700@gmail.com"
   },
   "contributors": [
     {
-      "name": "Mohammed Ismail",
-      "email": "ikismail7@gmail.com"
+      "name": "Praveen",
+      "email": "praveen.mr700@gmail.com"
     }
   ],
   "dependencies": {
